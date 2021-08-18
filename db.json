@@ -1,41 +1,10 @@
-{
-    "squadName": "Super hero squad",
-    "homeTown": "Metro City",
-    "formed": 2016,
-    "secretBase": "Super tower",
-    "active": true,
-    "members": [
-      {
-        "name": "Molecule Man",
-        "age": 29,
-        "secretIdentity": "Dan Jukes",
-        "powers": [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
-        ]
-      },
-      {
-        "name": "Madame Uppercut",
-        "age": 39,
-        "secretIdentity": "Jane Wilson",
-        "powers": [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
-        ]
-      },
-      {
-        "name": "Eternal Flame",
-        "age": 1000000,
-        "secretIdentity": "Unknown",
-        "powers": [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
-        ]
-      }
-    ]
+[
+  {
+    "id": 1,
+    "name": "13-inch MacBook Air M1",
+    "price": "4899",
+    "des":"أنحف وأخف نوت بوك صممته Apple يأتيك بقوة شريحة Apple M1، لتنجز مشاريعك بسرعة فائقة مع وحدة معالجة مركزية ثمانية النوى. كما يتيح لك الارتقاء بالألعاب التي تتطلب أداء رسومات قوياً إلى مستويات جديدة مع وحدة معالجة رسومات غرافيك معزّزة بما يصل إلى 8 نوى، وبفضل المحرك العصبي Neural Engine المزوّد بعدد 16 نواة، يمكنك إنجاز مهام التعلم الآلي على نحو أسرع. وكل هذا بتصميم صامت من دون مراوح مع أطول عمر بطارية على الإطلاق يدوم لغاية 18 ساعة.1 إنه MacBook Air بتصميم سهل الحمل، ولكن بقوة أكبر.",
+    "img":"https://raw.githubusercontent.com/2018asma/json/main/MacBook_Air_Blush_PDP_Image_Position-1_AR-1-1536x1536.jpeg",
+    "color":["gold", "silver","space gray"]
   }
+]
